@@ -1,0 +1,2 @@
+
+su - -s "/bin/sh" postgres

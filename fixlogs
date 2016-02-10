@@ -1,0 +1,6 @@
+
+mkdir /tmp/johnh
+mkdir /tmp/johnh/logs
+chown jh1038 /tmp/johnh
+chown jh1038 /tmp/johnh/logs
+
